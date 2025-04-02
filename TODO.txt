@@ -1,0 +1,3 @@
+serverio psw ir nuorodos:
+root
+patentai

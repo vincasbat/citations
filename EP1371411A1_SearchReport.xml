@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simple-patent-document SYSTEM "simple-patent-document-v1-9.dtd">
+<simple-patent-document id="EP1371411A1" lang="en" country="EP" doc-number="1371411" kind="A1" date-publ="20031217" status="n">
+  <bibliographic-data>
+    <publication-reference>
+      <document-id>
+        <country>EP</country>
+        <doc-number>1371411</doc-number>
+        <kind>A1</kind>
+        <date>20031217</date>
+      </document-id>
+    </publication-reference>
+    <!-- PLEASE FILL ONLY THE "references-cited" TAGS, ALL OTHER ELEMENTS CAN BE LEFT EMPTY FOR THE PURPOSE OF THIS EXERCISE - GO TO LINE 100 -->
+    <classifications-ipcr>
+      <classification-ipcr>
+        <ipc-version-indicator>
+          <date></date>
+        </ipc-version-indicator>
+        <classification-level></classification-level>
+        <section></section>
+        <class></class>
+        <subclass></subclass>
+        <main-group></main-group>
+        <subgroup></subgroup>
+        <symbol-position></symbol-position>
+        <classification-value></classification-value>
+        <classification-data-source></classification-data-source>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <application-reference>
+      <document-id>
+        <country></country>
+        <doc-number></doc-number>
+        <date></date>
+      </document-id>
+    </application-reference>
+    <language-of-publication></language-of-publication>
+    <priority-claims>
+      <priority-claim sequence="1" kind="national">
+        <country></country>
+        <doc-number></doc-number>
+        <date></date>
+      </priority-claim>
+    </priority-claims>
+    <parties>
+      <applicants>
+        <applicant sequence="1" app-type="applicant-proprietor" designation="all">
+          <addressbook>
+            <orgname></orgname>
+            <address>
+              <city></city>
+              <postcode></postcode>
+              <country></country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country></country>
+          </nationality>
+          <residence>
+            <country></country>
+          </residence>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor sequence="1" designation="all">
+          <addressbook>
+            <last-name></last-name>
+            <first-name></first-name>
+            <address>
+              <city></city>
+              <postcode></postcode>
+              <country></country>
+            </address>
+          </addressbook>
+          <nationality>
+            <country></country>
+          </nationality>
+          <residence>
+            <country></country>
+          </residence>
+        </inventor>
+      </inventors>
+      <agents>
+        <agent sequence="1" rep-type="agent">
+          <addressbook>
+            <last-name></last-name>
+            <first-name></first-name>
+            <orgname></orgname>
+            <address>
+              <address-1></address-1>
+              <city></city>
+              <postcode></postcode>
+              <country></country>
+            </address>
+           </addressbook>
+        </agent>
+      </agents>
+    </parties>
+    <invention-title lang="en"></invention-title>
+    <references-cited>
+      <citation cited-by="examiner" cited-phase="search">
+        <patcit>
+          <document-id>
+            <country>US</country>
+            <doc-number>3986835</doc-number>
+            <kind>A</kind>
+            <date>19761019</date>
+          </document-id>
+        </patcit>
+        <rel-passage><text>column 3, line 35 - column 6, line 42; figures 1-17; example 1; column 12, line 58 - column 13, line 5</text></rel-passage>
+        <category>X</category>
+        <rel-claims>1</rel-claims>
+      </citation>
+      <citation cited-by="examiner" cited-phase="search">
+        <nplcit>
+        <online>
+        <hosttitle>Database WPI</hosttitle>
+        <imprint>
+          <name>Derwent Publications Ltd., London, GB</name>
+        </imprint>
+        <pubdate>199407</pubdate>
+        <hostno>AN 1994-054973</hostno>
+        <location><text>Section Ch</text></location>
+        <class>A17</class>
+        <refno>XP002209399</refno>
+        </online>
+        </nplcit>
+        <rel-passage><text>abstract</text></rel-passage>
+        <category>X</category>
+        <rel-claims>1</rel-claims>
+        <corresponding-docs>
+          <patcit>
+			  <document-id>
+				  <country>RU</country>
+				  <doc-number>2001041</doc-number>
+				  <kind>C</kind>
+				  <name>KAZAN ORG SYNTHESIS PRODN ASSOC</name>
+				  <date>19931015</date>
+			  </document-id>
+		  </patcit>
+		</corresponding-docs>
+      </citation>
+      <citation cited-by="examiner" cited-phase="search">
+        <nplcit>
+          <article>
+            <author><name>Storey R F et al</name></author>
+            <atl>A MODIFIED GLASS REACTOR FOR THE PREPARATION OF LINEAR AND STAR- BRANCHED BLOCK COPOLYMERS VIA LIVING ANIONIC POLYMERIZATION</atl>
+            <serial>
+              <sertitle>JOURNAL OF APPLIED POLYMER SCIENCE</sertitle>
+              <imprint>
+				<name>JOHN WILEY AND SONS INC. NEW YORK, US</name>
+			  </imprint>
+              <pubdate>19971003</pubdate>
+              <vid>66</vid>
+			  <ino>1</ino>
+              <issn>0021-8995</issn>
+            </serial>
+          </article>
+        </nplcit>
+        <rel-passage><text>figures 1-3</text></rel-passage>
+        <category>X</category>
+        <rel-claims>1,2</rel-claims>
+      </citation>
+      <citation cited-by="examiner" cited-phase="search">
+        <nplcit>
+        <online>
+        <hosttitle>PATENT ABSTRACTS OF JAPAN</hosttitle>
+        <pubdate>19960229</pubdate>
+        <vid>1996</vid>
+        <ino>02</ino>
+        </online>
+        </nplcit>
+        <rel-passage><text>abstract</text></rel-passage>
+        <category>X</category>
+        <rel-claims>1,3</rel-claims>
+        <corresponding-docs>
+          <patcit>
+			  <document-id>
+				  <country>JP</country>
+				  <doc-number>07256081</doc-number>
+				  <kind>A</kind>
+				  <name>SANYO CHEM IND LTD</name>
+				  <date>19951009</date>
+			  </document-id>
+		  </patcit>
+		</corresponding-docs>
+      </citation>
+    </references-cited>
+      <pct-or-regional-filing-data>
+        <document-id>
+          <country></country>
+          <doc-number></doc-number>
+        </document-id>
+      </pct-or-regional-filing-data>
+      <pct-or-regional-publishing-data>
+        <document-id>
+          <country></country>
+          <doc-number></doc-number>
+        </document-id>
+        <gazette-reference>
+          <gazette-num></gazette-num>
+          <date></date>
+        </gazette-reference>
+      </pct-or-regional-publishing-data>
+  </bibliographic-data>
+  <abstract lang="en">
+		<p num=""></p>
+	</abstract>
+</simple-patent-document>
